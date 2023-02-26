@@ -11,3 +11,4 @@
 ### 📚 References
 
 - 🔗 [Beginning PHP and MySQL](https://link.springer.com/book/10.1007/978-1-4302-6044-8)
+- 🔗 [Object Oriented Programming (OOPs) Concept in Php](https://sagardhiman021.medium.com/object-oriented-programming-oops-concept-in-php-1790d2975785)
